@@ -1,3 +1,5 @@
+//m2 oef 2
+
 // 1. Setup Data: Array of Objects
 // We start with some dummy data to simulate existing reviews
 let reviews = [
@@ -40,4 +42,3 @@ renderReviews();
 // 5.4 Re-render the list to show the new item
 
 // Optional: Clear the form fields
-
